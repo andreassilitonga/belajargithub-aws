@@ -1,0 +1,1 @@
+baris1 inventory.tf
